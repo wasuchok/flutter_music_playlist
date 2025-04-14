@@ -1,6 +1,6 @@
 # flutter_music_playlist
 
-A new Flutter project.
+ขั้นตอนการใช้งาน Music Playlist
 
 ## Getting Started
 
