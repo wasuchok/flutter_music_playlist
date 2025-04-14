@@ -3,6 +3,7 @@ flutter_music_playlist - คู่มือการใช้งาน
 ตัวอย่างแอปพลิเคชัน (ตัวอย่างรูปภาพ)
 
 ![App Screenshot](https://i.ibb.co/WWzrk9Ct/Simulator-Screenshot-i-Phone-15-Pro-Max-2025-04-14-at-20-35-05.png)
+<img src="https://i.ibb.co/WWzrk9Ct/Simulator-Screenshot-i-Phone-15-Pro-Max-2025-04-14-at-20-35-05.png" width="150" alt="ไอคอนแอป">
 https://ibb.co/d0pNP9Zg
 https://ibb.co/WWtnmtkJ
 https://ibb.co/Jj6rsJGk
